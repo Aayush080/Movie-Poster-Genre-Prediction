@@ -4,7 +4,7 @@ We propose to achieve movie genre classification based only on movie poster imag
 The dataset was collected from the IMDB website. One poster image was collected from one (mostly) Hollywood movie released from 1980 to 2015. Each poster image is associated with a movie as well as some metadata like ID, genres, and box office. The ID of each image is set as its file name.
 
 ## Total Poster Images-7254
-Total Genres -25 
+## Total Genres -25 
 
 
 # Testing the model on external files
@@ -14,12 +14,12 @@ Total Genres -25
 
 # RESULTS
 
-# ACCURACY
+# ACCURACY-
 
 # MODEL TRAINING  ACCURACY -91%
 # MODEL VALIDATION ACCURACY-90%
 
-# LOSS
+# LOSS-
 
 # TRAINING LOSS- 0.2453
 # VALIDATION LOSS- 0.2579
@@ -27,6 +27,12 @@ Total Genres -25
 
 
 # LIMITATIONS-
+1.The main Problem  in multi-label classification is data imbalance the 50% of the poster have Drama as one of its genre because of this the Model is always predicting Drama as its one of the Genre. 
+
+2.Subjective movie labelling by IMDb sources & varied posters for release.
+
+
+
 
 
 
