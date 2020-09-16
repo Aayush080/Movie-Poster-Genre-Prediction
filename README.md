@@ -6,6 +6,11 @@ Total Poster Images-7254
 Total Genres -25 
 
 
+# Testing the model on external files
+
+![poster git 2](https://user-images.githubusercontent.com/67013985/93320904-3d129200-f82f-11ea-80c4-9ac4ee31a123.png)
+![poster git 3](https://user-images.githubusercontent.com/67013985/93321838-48b28880-f830-11ea-8b8e-0cd3a022aed9.png)
+
 # RESULTS
 
 # ACCURACY
@@ -18,10 +23,6 @@ Total Genres -25
 # TRAINING LOSS- 0.2453
 # VALIDATION LOSS- 0.2579
 
-# Testing the model on external files
-
-![poster git 2](https://user-images.githubusercontent.com/67013985/93320904-3d129200-f82f-11ea-80c4-9ac4ee31a123.png)
-![poster git 3](https://user-images.githubusercontent.com/67013985/93321838-48b28880-f830-11ea-8b8e-0cd3a022aed9.png)
 
 
 # LIMITATIONS-
