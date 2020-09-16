@@ -3,8 +3,7 @@ We propose to achieve movie genre classification based only on movie poster imag
 
 The dataset was collected from the IMDB website. One poster image was collected from one (mostly) Hollywood movie released from 1980 to 2015. Each poster image is associated with a movie as well as some metadata like ID, genres, and box office. The ID of each image is set as its file name.
 
-
-[Doc1.docx](https://github.com/Aayush080/Movie-poster-Genre-Prediction/files/5231003/Doc1.docx)
+![posret git](https://user-images.githubusercontent.com/67013985/93319664-c45f0600-f82d-11ea-8763-bd34d61b1862.jpg)
 
 
 
