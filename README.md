@@ -27,7 +27,7 @@ The dataset was collected from the IMDB website. One poster image was collected 
 
 
 # LIMITATIONS-
-1.The main Problem  in multi-label classification is data imbalance the 50% of the poster have Drama as one of its genre because of this the Model is always predicting Drama as its one of the Genre. 
+1.The main Problem  in Multi-label classification is data imbalance the 50% of the poster have Drama as one of its Genre because of this the Model is always predicting Drama as its one of the Genre. 
 
 2.Subjective movie labelling by IMDb sources & varied posters for release.
 
