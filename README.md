@@ -31,6 +31,8 @@ The dataset was collected from the IMDB website. One poster image was collected 
 
 2.Subjective movie labelling by IMDb sources & varied posters for release.
 
+3.Transfer learning proved to be of little value in this multi-label problem.Training with VGG16 model overfit the model after 32 epochs it gave accuracy of 56% and validation accuracy of 33% it clearly was overfitting the model.Better is to train CNN model.
+
 
 
 
